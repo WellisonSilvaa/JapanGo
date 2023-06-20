@@ -64,11 +64,11 @@ export class CartaPage implements OnInit {
     'GU',
     'GE',
     'GO', // romaji[50]
-    'DA',
-    'DI',
-    'DU',
-    'DE',
-    'DO', // romaji[55]
+    'ZA',
+    'JI',
+    'ZU',
+    'ZE',
+    'ZO', // romaji[55]
     'DA',
     'JI',
     'ZU',
